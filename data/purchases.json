@@ -1,0 +1,306 @@
+[
+  {
+    "userId": "1",
+    "orderId": "ORD001",
+    "amount": 50.0,
+    "category": "ELECTRONICS",
+    "date": "2024-01-15T10:30:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "1",
+    "orderId": "ORD002",
+    "amount": 25.5,
+    "category": "BOOKS",
+    "date": "2024-01-10T16:20:00Z",
+    "productCount": 3
+  },
+  {
+    "userId": "1",
+    "orderId": "ORD003",
+    "amount": 75.0,
+    "category": "ELECTRONICS",
+    "date": "2024-01-05T14:15:00Z",
+    "productCount": 1
+  },
+  {
+    "userId": "1",
+    "orderId": "ORD004",
+    "amount": 100.0,
+    "category": "BOOKS",
+    "date": "2024-01-01T09:30:00Z",
+    "productCount": 5
+  },
+  {
+    "userId": "2",
+    "orderId": "ORD005",
+    "amount": 150.0,
+    "category": "CLOTHING",
+    "date": "2024-01-20T14:45:00Z",
+    "productCount": 5
+  },
+  {
+    "userId": "2",
+    "orderId": "ORD006",
+    "amount": 75.75,
+    "category": "BEAUTY",
+    "date": "2024-01-18T11:30:00Z",
+    "productCount": 4
+  },
+  {
+    "userId": "2",
+    "orderId": "ORD007",
+    "amount": 200.0,
+    "category": "CLOTHING",
+    "date": "2024-01-12T16:20:00Z",
+    "productCount": 3
+  },
+  {
+    "userId": "2",
+    "orderId": "ORD008",
+    "amount": 125.5,
+    "category": "BEAUTY",
+    "date": "2024-01-08T13:45:00Z",
+    "productCount": 6
+  },
+  {
+    "userId": "2",
+    "orderId": "ORD009",
+    "amount": 300.0,
+    "category": "CLOTHING",
+    "date": "2024-01-03T10:15:00Z",
+    "productCount": 4
+  },
+  {
+    "userId": "3",
+    "orderId": "ORD010",
+    "amount": 500.0,
+    "category": "LUXURY",
+    "date": "2024-01-22T09:15:00Z",
+    "productCount": 1
+  },
+  {
+    "userId": "3",
+    "orderId": "ORD011",
+    "amount": 300.0,
+    "category": "ELECTRONICS",
+    "date": "2024-01-19T13:45:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "3",
+    "orderId": "ORD012",
+    "amount": 800.0,
+    "category": "LUXURY",
+    "date": "2024-01-15T11:20:00Z",
+    "productCount": 1
+  },
+  {
+    "userId": "3",
+    "orderId": "ORD013",
+    "amount": 1200.0,
+    "category": "LUXURY",
+    "date": "2024-01-10T15:30:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "3",
+    "orderId": "ORD014",
+    "amount": 450.0,
+    "category": "ELECTRONICS",
+    "date": "2024-01-05T09:45:00Z",
+    "productCount": 3
+  },
+  {
+    "userId": "4",
+    "orderId": "ORD015",
+    "amount": 35.25,
+    "category": "BOOKS",
+    "date": "2024-01-12T16:20:00Z",
+    "productCount": 3
+  },
+  {
+    "userId": "4",
+    "orderId": "ORD016",
+    "amount": 40.0,
+    "category": "HOME",
+    "date": "2024-01-10T14:30:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "5",
+    "orderId": "ORD017",
+    "amount": 200.0,
+    "category": "SPORTS",
+    "date": "2024-01-21T11:30:00Z",
+    "productCount": 4
+  },
+  {
+    "userId": "5",
+    "orderId": "ORD018",
+    "amount": 350.0,
+    "category": "ELECTRONICS",
+    "date": "2024-01-18T13:15:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "5",
+    "orderId": "ORD019",
+    "amount": 180.0,
+    "category": "SPORTS",
+    "date": "2024-01-15T10:45:00Z",
+    "productCount": 3
+  },
+  {
+    "userId": "5",
+    "orderId": "ORD020",
+    "amount": 420.0,
+    "category": "ELECTRONICS",
+    "date": "2024-01-12T16:20:00Z",
+    "productCount": 1
+  },
+  {
+    "userId": "6",
+    "orderId": "ORD021",
+    "amount": 800.0,
+    "category": "LUXURY",
+    "date": "2024-01-23T14:15:00Z",
+    "productCount": 1
+  },
+  {
+    "userId": "6",
+    "orderId": "ORD022",
+    "amount": 1200.0,
+    "category": "FASHION",
+    "date": "2024-01-20T11:30:00Z",
+    "productCount": 3
+  },
+  {
+    "userId": "6",
+    "orderId": "ORD023",
+    "amount": 600.0,
+    "category": "BEAUTY",
+    "date": "2024-01-17T15:45:00Z",
+    "productCount": 5
+  },
+  {
+    "userId": "6",
+    "orderId": "ORD024",
+    "amount": 1500.0,
+    "category": "LUXURY",
+    "date": "2024-01-14T10:20:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "6",
+    "orderId": "ORD025",
+    "amount": 900.0,
+    "category": "FASHION",
+    "date": "2024-01-11T13:30:00Z",
+    "productCount": 4
+  },
+  {
+    "userId": "7",
+    "orderId": "ORD026",
+    "amount": 45.0,
+    "category": "ELECTRONICS",
+    "date": "2024-01-16T09:45:00Z",
+    "productCount": 1
+  },
+  {
+    "userId": "8",
+    "orderId": "ORD027",
+    "amount": 180.0,
+    "category": "CLOTHING",
+    "date": "2024-01-19T13:20:00Z",
+    "productCount": 3
+  },
+  {
+    "userId": "8",
+    "orderId": "ORD028",
+    "amount": 95.5,
+    "category": "BEAUTY",
+    "date": "2024-01-16T14:30:00Z",
+    "productCount": 4
+  },
+  {
+    "userId": "8",
+    "orderId": "ORD029",
+    "amount": 220.0,
+    "category": "HOME",
+    "date": "2024-01-13T11:15:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "8",
+    "orderId": "ORD030",
+    "amount": 150.0,
+    "category": "CLOTHING",
+    "date": "2024-01-10T16:45:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "9",
+    "orderId": "ORD031",
+    "amount": 1000.0,
+    "category": "LUXURY",
+    "date": "2024-01-24T10:30:00Z",
+    "productCount": 1
+  },
+  {
+    "userId": "9",
+    "orderId": "ORD032",
+    "amount": 750.0,
+    "category": "ELECTRONICS",
+    "date": "2024-01-21T14:20:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "9",
+    "orderId": "ORD033",
+    "amount": 500.0,
+    "category": "SPORTS",
+    "date": "2024-01-18T12:15:00Z",
+    "productCount": 3
+  },
+  {
+    "userId": "9",
+    "orderId": "ORD034",
+    "amount": 1200.0,
+    "category": "LUXURY",
+    "date": "2024-01-15T09:30:00Z",
+    "productCount": 1
+  },
+  {
+    "userId": "9",
+    "orderId": "ORD035",
+    "amount": 800.0,
+    "category": "ELECTRONICS",
+    "date": "2024-01-12T15:45:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "10",
+    "orderId": "ORD036",
+    "amount": 45.75,
+    "category": "BOOKS",
+    "date": "2024-01-22T15:45:00Z",
+    "productCount": 2
+  },
+  {
+    "userId": "10",
+    "orderId": "ORD037",
+    "amount": 35.0,
+    "category": "CLOTHING",
+    "date": "2024-01-20T12:30:00Z",
+    "productCount": 1
+  },
+  {
+    "userId": "10",
+    "orderId": "ORD038",
+    "amount": 40.0,
+    "category": "BOOKS",
+    "date": "2024-01-18T14:15:00Z",
+    "productCount": 3
+  }
+]

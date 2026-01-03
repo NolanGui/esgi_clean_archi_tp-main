@@ -1,0 +1,25 @@
+{
+  "name": "clean-architecture-tp",
+  "version": "1.0.0",
+  "description": "TP Clean Architecture - Refactoring d'une architecture sale vers une clean architecture",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "demo:bad-architecture": "ts-node demo-coupons-bad-architecture.ts",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "eslint src/**/*.ts --fix"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "@types/node": "^20.19.19",
+    "jest": "^29.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "inversify": "^6.0.0",
+    "reflect-metadata": "^0.1.13"
+  }
+}
