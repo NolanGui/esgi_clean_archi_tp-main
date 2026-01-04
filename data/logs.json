@@ -1,0 +1,312 @@
+[
+  {
+    "timestamp": "2026-01-04T11:03:49.072Z",
+    "level": "INFO",
+    "message": "Email templates loaded",
+    "action": "EMAIL_TEMPLATES_LOAD"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.075Z",
+    "level": "INFO",
+    "message": "Loaded 10 users from file",
+    "action": "DATA_LOAD"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.076Z",
+    "level": "INFO",
+    "message": "Loaded 38 purchase records from file",
+    "action": "DATA_LOAD"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.077Z",
+    "level": "INFO",
+    "message": "Analytics initialized",
+    "action": "ANALYTICS_INIT"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.082Z",
+    "level": "INFO",
+    "message": "Created percentage coupon COUPONOOVEQ1KR",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "1",
+      "percentage": 10
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.083Z",
+    "level": "INFO",
+    "message": "Created fixed amount coupon COUPONR00LT8L9",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "1",
+      "amount": 15
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.083Z",
+    "level": "INFO",
+    "message": "Created free shipping coupon COUPONN0UG3UJB",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "1"
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.084Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.085Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.086Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.087Z",
+    "level": "INFO",
+    "message": "Generated 3 coupons for user 1",
+    "action": "COUPON_GENERATION_SUCCESS",
+    "metadata": {
+      "userId": "1",
+      "couponCount": 3,
+      "profile": "REGULAR"
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.088Z",
+    "level": "INFO",
+    "message": "Analytics updated",
+    "action": "ANALYTICS_UPDATE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.168Z",
+    "level": "INFO",
+    "message": "Created percentage coupon COUPONDL9SXJSR",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "2",
+      "percentage": 15
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.169Z",
+    "level": "INFO",
+    "message": "Created percentage coupon COUPONQAGW7M81",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "2",
+      "percentage": 20
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.169Z",
+    "level": "INFO",
+    "message": "Created fixed amount coupon COUPON08COKWII",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "2",
+      "amount": 50
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.170Z",
+    "level": "INFO",
+    "message": "Created free shipping coupon COUPONI2RM3AHK",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "2"
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.171Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.172Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.172Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.173Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.174Z",
+    "level": "INFO",
+    "message": "Generated 4 coupons for user 2",
+    "action": "COUPON_GENERATION_SUCCESS",
+    "metadata": {
+      "userId": "2",
+      "couponCount": 4,
+      "profile": "PREMIUM"
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.174Z",
+    "level": "INFO",
+    "message": "Analytics updated",
+    "action": "ANALYTICS_UPDATE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.177Z",
+    "level": "INFO",
+    "message": "Created percentage coupon COUPONVJL3N5EW",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "3",
+      "percentage": 25
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.177Z",
+    "level": "INFO",
+    "message": "Created fixed amount coupon COUPONLG79967I",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "3",
+      "amount": 100
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.178Z",
+    "level": "INFO",
+    "message": "Created free shipping coupon COUPONBFYNT67A",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "3"
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.178Z",
+    "level": "INFO",
+    "message": "Created BOGO coupon COUPONPGXQES2E",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "3"
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.179Z",
+    "level": "INFO",
+    "message": "Created percentage coupon COUPON9SHXZEJO",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "3",
+      "percentage": 30
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.179Z",
+    "level": "INFO",
+    "message": "Created senior discount coupon COUPONET4ALG8N",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "3"
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.180Z",
+    "level": "INFO",
+    "message": "Created location-specific coupon COUPONL1YGO7L4",
+    "action": "COUPON_CREATED",
+    "metadata": {
+      "userId": "3",
+      "location": "Nice"
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.181Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.182Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.183Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.184Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.185Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.185Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.186Z",
+    "level": "INFO",
+    "message": "Coupons saved",
+    "action": "DATA_SAVE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.187Z",
+    "level": "INFO",
+    "message": "Generated 7 coupons for user 3",
+    "action": "COUPON_GENERATION_SUCCESS",
+    "metadata": {
+      "userId": "3",
+      "couponCount": 7,
+      "profile": "VIP"
+    }
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.187Z",
+    "level": "INFO",
+    "message": "Analytics updated",
+    "action": "ANALYTICS_UPDATE"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.191Z",
+    "level": "INFO",
+    "message": "Statistics calculated",
+    "action": "STATS_CALCULATION"
+  },
+  {
+    "timestamp": "2026-01-04T11:03:49.192Z",
+    "level": "WARN",
+    "message": "Coupon COUPON123456 not found for user 1",
+    "action": "COUPON_VALIDATION_FAILED",
+    "metadata": {
+      "couponCode": "COUPON123456",
+      "userId": "1"
+    }
+  }
+]
